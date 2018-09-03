@@ -1,6 +1,7 @@
 ## Justin Sherman
 
-Student at Duke University double-majoring in Computer Science and Political Science.
+Student at Duke University double-majoring in Computer Science and Political Science. Fellow at [Interact](http://joininteract.com). Former Fellow with the [Duke University Program in American Grand Strategy](https://ags.duke.edu/). Co-Founder and Vice President of [Ethical Tech](https://ethical-tech.org/).
+
 You can use the [editor on GitHub](https://github.com/justinsherman/justinsherman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
